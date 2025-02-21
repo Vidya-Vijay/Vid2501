@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello, I'm Vidya Vijay 👋  
 
-<!--
-**Vid2501/Vid2501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me 
 
-Here are some ideas to get you started:
+🎯 Passionate about **Data Science and Analytics, Machine Learning, AI and Research** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Experienced in **Python, SQL, R, C++ and tools like Tableau, SPSS, AWS, Google Analytics**
+
+🛠️ Currently working on **Data Quality, Machine Learning** 
+
+📚 Always learning new technologies & improving my problem-solving and analytical skills
+
+💬 Ask me about **Data Analysis**
+
+
