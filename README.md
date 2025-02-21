@@ -10,6 +10,11 @@
 
 📚 Always learning new technologies & improving my problem-solving and analytical skills
 
-💬 Ask me about **Data Analysis**
 
+🔧 Tech & Tools:
+Programming: Python | SQL | R | C++ 
+
+Data & Analytics: Tableau | SPSS | Minitab | AWS | Google Analytics
+
+Machine Learning & AI: RapidMiner | IBM Amos 
 
