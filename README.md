@@ -11,7 +11,8 @@
 📚 Always learning new technologies & improving my problem-solving and analytical skills
 
 
-🔧 Tech & Tools:
+🔧 Tech & Tools:  
+
 Programming: Python | SQL | R | C++ 
 
 Data & Analytics: Tableau | SPSS | Minitab | AWS | Google Analytics
