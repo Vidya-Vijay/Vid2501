@@ -1,6 +1,6 @@
 ## Hello, I'm Vidya Vijay 👋  
 
-##🚀 About Me 
+## 🚀 About Me 
 
 🎯 Passionate about **Data Science and Analytics, Machine Learning, AI and Research** 
 
@@ -11,7 +11,7 @@
 📚 Always learning new technologies & improving my problem-solving and analytical skills
 
 
-##🔧 Tech & Tools:  
+## 🔧 Tech & Tools:  
 
 Programming: Python | SQL | R | C++ 
 
