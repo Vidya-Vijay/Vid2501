@@ -1,21 +1,25 @@
-## Hello, I'm Vidya Vijay 👋  
+## Hello, I'm Vidya Vijay!! 👋  
 
-## 🚀 About Me 
+🚀 **Data Analytics Enthusiast** | **Business Intelligence Advocate** | **Insight-Driven Problem Solver**
 
-🎯 Passionate about **Data Science and Analytics, Machine Learning, AI and Research** 
+🎯 Passionate about transforming data into clear, actionable insights that drive smart business decisions.
 
-📊 Experienced in **Python, SQL, R, C++ and tools like Tableau, SPSS, AWS, Google Analytics**
+💻 Experienced in **Python, SQL, R, Excel** and skilled with **BI & Analytics** tools like **Poweer BI, Tableau, SPSS, and Google Analytics**
 
-🛠️ Currently working on **Data Quality, Machine Learning** 
+🛠️ Currently focused on enhancing data quality and building impactful dashboards and reports for business growth.
 
-📚 Always learning new technologies & improving my problem-solving and analytical skills
+📚 Committed to continuous learning — always expanding my skills to solve complex problems with data.
 
-
-## 🔧 Tech & Tools:  
+## 🔧 Tech Stack & Tools  
 
 Programming: Python | SQL | R | C++ 
 
-Data & Analytics: Tableau | SPSS | Minitab | AWS | Google Analytics
+Data & Analytics: Power BI | Tableau | SPSS | Minitab | Google Analytics
 
 Machine Learning & AI: RapidMiner | IBM Amos 
 
+## 💡 Personal Motto
+“Turning numbers into narratives, and insights into impact.”
+
+## 🎉 Fun Fact
+I’m a lifelong learner who believes every dataset has a story waiting to be told — and I love being the storyteller!
